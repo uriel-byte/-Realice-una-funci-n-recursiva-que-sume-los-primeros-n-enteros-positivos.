@@ -17,3 +17,7 @@ tambien se definió la funcion suma que la que se mandara a llamar cuando se est
 
 
 a continuación se muesran algunas capturas de programa
+
+
+![Captura de pantalla (349) png](https://user-images.githubusercontent.com/71051834/95941512-91654f00-0da6-11eb-84e4-79a518d5c2f6.jpg)
+![Captura de pantalla (348) png](https://user-images.githubusercontent.com/71051834/95941521-93c7a900-0da6-11eb-8d12-1602f1b05058.jpg)
