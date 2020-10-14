@@ -8,3 +8,6 @@ mediante la siguiente recurrencia:
 */
 
 ![Captura de pantalla (347) png](https://user-images.githubusercontent.com/71051834/95940617-70036380-0da4-11eb-99ff-f39d60f7d88c.jpg)
+
+
+en la parte del do-whiles se uso ese ciclo para que el usuario ingrese numeros positvo, ya que si ingresa un numero negativo este ciclo se repitira hasta que positivo >=0
