@@ -7,3 +7,4 @@ mediante la siguiente recurrencia:
 			  n+suma(n-1)  , si n>1
 */
 
+![Captura de pantalla (347) png](https://user-images.githubusercontent.com/71051834/95940617-70036380-0da4-11eb-99ff-f39d60f7d88c.jpg)
