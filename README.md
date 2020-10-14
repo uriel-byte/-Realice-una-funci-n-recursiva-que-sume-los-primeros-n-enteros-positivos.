@@ -6,3 +6,4 @@ mediante la siguiente recurrencia:
 	suma(n) = 1            , si n=1
 			  n+suma(n-1)  , si n>1
 */
+https://github.com/uriel-byte/-Realice-una-funci-n-recursiva-que-sume-los-primeros-n-enteros-positivos./issues/1#issue-721105252
