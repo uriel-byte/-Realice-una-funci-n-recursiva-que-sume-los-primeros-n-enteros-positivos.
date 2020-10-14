@@ -14,3 +14,6 @@ mediante la siguiente recurrencia:
 en int main() se utiliza el do-whiles que se  para que el usuario ingrese numeros positvo, ya que si ingresa un numero negativo este ciclo se repitira hasta que positivo.
 dentre de este esta suma que mandara llamar a la funcion suma para realizar lo que se pide
 tambien se definió la funcion suma que la que se mandara a llamar cuando se este ejecutando el programa 
+
+
+a continuación se muesran algunas capturas de programa
